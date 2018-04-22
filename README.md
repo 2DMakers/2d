@@ -6,4 +6,6 @@ Update 1.0.3D.zip  contains:
 - HealthBar and Lifes
 - Traps
 - Enemies 
+- Pause Menu (Main menu, Restart, Resume, QUIT)
+- HEALTG SCRIPT (UNDER DEV.)
 (Note that, some of them are still under development. May not work 100%)
